@@ -6,12 +6,12 @@ This is a dataset about student performance in math, reading and writing based o
 Since this is going to be a regression problem, we will use traditional Machine Learning algorithms like ```Linear Regression, Lasso, Ridge, K-Neighbors Regressor, Decision Tree Regressor, Random Forest Regressor, XGBRegressor, CatBoosting Regressor and Adaboost Regressor```. We will perform an analysis of the predictions of each of these algorithms and choose the one that gives us the best accuracy score after hyper-parameter tuning of the model during training.
 
 ## Deployed model
-Before going further check out the model and its performance. I have implemented two different implementations of the deployment. One to Amazon Web Services using Elactic Beanstalk and another to Microsoft Azure cloud. Below are the links to both of them.<br>
+Before going further check out the model and its performance. I have implemented the deployment to Amazon Web Services using Elastic Beanstalk. Below is the link to it.<br>
 Note: This is a simple HTML template with no extra features and beautications to keep the deployment simple.<br>
 
 # Links not updated
 * [**Link to the AWS Deployment**]() <br>
-* [**Link to the Azure Cloud Deployment**]()
+
 
 Its usage is pretty simple, just enter any values into the fields and you can get the appropriate resulting score.
 
