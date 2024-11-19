@@ -52,12 +52,7 @@ Here are a few milestones in the project roadmap which should give an idea of ho
     * Link it to your code source, GitHub in this case and select your repo.
     * Link your pipeline with your environment and it will automatically deploy your web application. Thanks to Continuous Delivery.
     * That's it. Use the URL to checkout the website and use it.
-9. **Deployment on Microsoft Azure elastic beanstalk** <br>
-    This is simpler than deploying on AWS.
-    * Create an Azure account.
-    * Create a new Web App resource, select all necessary options and go ahead.
-    * Choose your GitHub repo and hit deploy. Azure uses GitHub Actions to deploy your website. Head over to the Actions tab on your Repo in GitHub to check the status of the deployment.
-    * Once the deployment is successful, check out the URL and use the website which houses your Web App.
+
 
 ## Dependencies
 1. pandas
